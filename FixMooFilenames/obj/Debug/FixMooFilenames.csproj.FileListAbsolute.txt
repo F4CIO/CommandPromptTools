@@ -1,0 +1,6 @@
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixMooFilenames\bin\Debug\FixMooFilenames.exe.config
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixMooFilenames\bin\Debug\FixMooFilenames.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixMooFilenames\bin\Debug\FixMooFilenames.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixMooFilenames\obj\Debug\FixMooFilenames.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixMooFilenames\obj\Debug\FixMooFilenames.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixMooFilenames\obj\Debug\FixMooFilenames.pdb

@@ -1,0 +1,4 @@
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixAthtekFilenames\bin\Debug\FixAthtekFilenames.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixAthtekFilenames\bin\Debug\FixAthtekFilenames.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixAthtekFilenames\obj\Debug\FixAthtekFilenames.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\FixAthtekFilenames\obj\Debug\FixAthtekFilenames.pdb

@@ -1,0 +1,5 @@
+D:\Projects\RunAsSync\RunAsSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\RunAsSync\RunAsSync\bin\Debug\RunAsSync.exe
+D:\Projects\RunAsSync\RunAsSync\bin\Debug\RunAsSync.pdb
+D:\Projects\RunAsSync\RunAsSync\obj\Debug\RunAsSync.exe
+D:\Projects\RunAsSync\RunAsSync\obj\Debug\RunAsSync.pdb

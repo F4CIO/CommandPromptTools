@@ -1,0 +1,13 @@
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.exe.config
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.exe.config
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.exe
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.pdb
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\obj\Debug\EmptyAllFilesInThisFolder.csprojResolveAssemblyReference.cache
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\obj\Debug\EmptyAllFilesInThisFolder.exe
+D:\Projects\F4CIO.FileEmptier\Program\EmptyAllFilesInThisFolder\obj\Debug\EmptyAllFilesInThisFolder.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.exe.config
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\EmptyAllFilesInThisFolder\bin\Debug\EmptyAllFilesInThisFolder.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\EmptyAllFilesInThisFolder\obj\Debug\EmptyAllFilesInThisFolder.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\EmptyAllFilesInThisFolder\obj\Debug\EmptyAllFilesInThisFolder.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\EmptyAllFilesInThisFolder\obj\Debug\EmptyAllFilesInThisFolder.pdb

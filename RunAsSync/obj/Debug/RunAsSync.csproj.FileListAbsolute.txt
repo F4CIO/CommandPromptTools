@@ -1,0 +1,15 @@
+D:\Projects\RunAsSync\RunAsSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\RunAsSync\RunAsSync\bin\Debug\RunAsSync.exe
+D:\Projects\RunAsSync\RunAsSync\bin\Debug\RunAsSync.pdb
+D:\Projects\RunAsSync\RunAsSync\obj\Debug\RunAsSync.exe
+D:\Projects\RunAsSync\RunAsSync\obj\Debug\RunAsSync.pdb
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\RunAsSync\bin\Debug\RunAsSync.exe
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\RunAsSync\bin\Debug\RunAsSync.pdb
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\RunAsSync\obj\Debug\RunAsSync.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\RunAsSync\obj\Debug\RunAsSync.exe
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\RunAsSync\obj\Debug\RunAsSync.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\RunAsSync\bin\Debug\RunAsSync.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\RunAsSync\bin\Debug\RunAsSync.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\RunAsSync\obj\Debug\RunAsSync.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\RunAsSync\obj\Debug\RunAsSync.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\RunAsSync\obj\Debug\RunAsSync.pdb

@@ -1,0 +1,15 @@
+D:\Projects\ReplaceStringInFile\ReplaceStringInFile\bin\Debug\ReplaceStringInFile.exe
+D:\Projects\ReplaceStringInFile\ReplaceStringInFile\bin\Debug\ReplaceStringInFile.pdb
+D:\Projects\ReplaceStringInFile\ReplaceStringInFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ReplaceStringInFile\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.exe
+D:\Projects\ReplaceStringInFile\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\ReplaceStringInFile\bin\Debug\ReplaceStringInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\ReplaceStringInFile\bin\Debug\ReplaceStringInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\ReplaceStringInFile\bin\Debug\ReplaceStringInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\ReplaceStringInFile\bin\Debug\ReplaceStringInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\ReplaceStringInFile\obj\Debug\ReplaceStringInFile.pdb

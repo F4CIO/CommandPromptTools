@@ -1,0 +1,5 @@
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\LeaveOnlyAZ09CharsInFileNames\bin\Debug\LeaveOnlyAZ09CharsInFileNames.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\LeaveOnlyAZ09CharsInFileNames\bin\Debug\LeaveOnlyAZ09CharsInFileNames.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\LeaveOnlyAZ09CharsInFileNames\obj\Debug\LeaveOnlyAZ09CharsInFileNames.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\LeaveOnlyAZ09CharsInFileNames\obj\Debug\LeaveOnlyAZ09CharsInFileNames.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\LeaveOnlyAZ09CharsInFileNames\obj\Debug\LeaveOnlyAZ09CharsInFileNames.pdb

@@ -1,0 +1,15 @@
+D:\Projects\SetXMLElementValueInFile\SetXMLElementValueInFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SetXMLElementValueInFile\SetXMLElementValueInFile\bin\Debug\SetXMLElementValueInFile.exe
+D:\Projects\SetXMLElementValueInFile\SetXMLElementValueInFile\bin\Debug\SetXMLElementValueInFile.pdb
+D:\Projects\SetXMLElementValueInFile\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.exe
+D:\Projects\SetXMLElementValueInFile\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\SetXMLElementValueInFile\bin\Debug\SetXMLElementValueInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\SetXMLElementValueInFile\bin\Debug\SetXMLElementValueInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\CraftSynth.CommandPromptTools\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\SetXMLElementValueInFile\bin\Debug\SetXMLElementValueInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\SetXMLElementValueInFile\bin\Debug\SetXMLElementValueInFile.pdb
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.csprojResolveAssemblyReference.cache
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.exe
+D:\Projects\CraftSynth.CommandPromptTools\SourceCode\SetXMLElementValueInFile\obj\Debug\SetXMLElementValueInFile.pdb
